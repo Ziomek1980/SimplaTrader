@@ -9,7 +9,8 @@ namespace SimpleTrader.Wpf
     public enum ViewType
     {
         Home,
-        Portfolio
+        Portfolio,
+        Ebay
     }
 
     public interface INavigator

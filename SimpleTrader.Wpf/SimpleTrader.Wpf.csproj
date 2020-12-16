@@ -11,4 +11,9 @@
     <ProjectReference Include="..\SimpleTrader.EntityFramework\SimpleTrader.EntityFramework.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Ebay\HtmlTemplate\" />
+    <Folder Include="Ebay\ViewModel\" />
+  </ItemGroup>
+
 </Project>

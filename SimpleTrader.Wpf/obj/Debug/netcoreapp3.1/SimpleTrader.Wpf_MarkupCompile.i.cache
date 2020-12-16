@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\App.xaml
-6-248549811
+71417150022
 
-16284351615
+181830603465
 215-479477540
-Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Styles\NavigationBar.xaml;Views\HomeView.xaml;Views\PortfolioView.xaml;
+Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Styles\NavigationBar.xaml;Views\EbayTemplateView.xaml;Views\HomeView.xaml;Views\PortfolioView.xaml;
 
-True
+False
 

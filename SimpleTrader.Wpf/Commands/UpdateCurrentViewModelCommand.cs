@@ -36,6 +36,10 @@ namespace SimpleTrader.Wpf
                         _navigator.CurrentViewModel = new PortfolioViewModel();
                         break;
 
+                    case ViewType.Ebay:
+                        _navigator.CurrentViewModel = new EbayViewModel();
+                        break;
+
                     default:
                         break;
                 }

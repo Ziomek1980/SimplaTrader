@@ -20,6 +20,11 @@
             </DataTemplate>
 
 
+            <DataTemplate DataType="{x:Type local:EbayViewModel}">
+                <local:EbayTemplateView />
+            </DataTemplate>
+
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

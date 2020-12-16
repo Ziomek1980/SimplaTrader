@@ -139,3 +139,5 @@ C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\obj\Debug\netcore
 C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\obj\Debug\netcoreapp3.1\SimpleTrader.Wpf.pdb
 C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\obj\Debug\netcoreapp3.1\SimpleTrader.Wpf.genruntimeconfig.cache
 C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\obj\Debug\netcoreapp3.1\Styles\NavigationBar.baml
+C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\obj\Debug\netcoreapp3.1\Views\EbayTemplateView.g.cs
+C:\Users\micha\source\repos\EbayShopPomodoria\SimpleTrader.Wpf\obj\Debug\netcoreapp3.1\Views\EbayTemplateView.baml

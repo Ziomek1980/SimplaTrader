@@ -27,7 +27,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <RadioButton Grid.Column="0" Content="ebay Template" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Home}"/>
+            <RadioButton Grid.Column="0" Content="ebay Template" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Ebay}"/>
             <RadioButton Grid.Column="1" Content="Kommmt noch" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Portfolio}"/>
             <RadioButton Grid.Column="2" Content="Kommt noch"/>
             <RadioButton Grid.Column="3" Content="Kommt noch"/>
