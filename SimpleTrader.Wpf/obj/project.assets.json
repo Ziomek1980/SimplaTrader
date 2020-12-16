@@ -5743,11 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Wpf\\SimpleTrader.Wpf.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Wpf\\SimpleTrader.Wpf.csproj",
       "projectName": "SimpleTrader.Wpf",
-      "projectPath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Wpf\\SimpleTrader.Wpf.csproj",
+      "projectPath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Wpf\\SimpleTrader.Wpf.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Wpf\\obj\\",
+      "outputPath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Wpf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5763,11 +5763,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj": {
-              "projectPath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj"
+            "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj": {
+              "projectPath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj"
             },
-            "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj": {
-              "projectPath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj"
+            "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj": {
+              "projectPath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj"
             }
           }
         }

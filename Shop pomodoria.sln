@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTrader.Domain", "Simp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTrader.EntityFramework", "SimpleTrader.EntityFramework\SimpleTrader.EntityFramework.csproj", "{10C1CF18-8265-4C11-BA34-4926FC04A47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader.Wpf", "SimpleTrader.Wpf\SimpleTrader.Wpf.csproj", "{10DAA4EB-22AD-4547-9368-4FDBFAA92FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTrader.Wpf", "SimpleTrader.Wpf\SimpleTrader.Wpf.csproj", "{10DAA4EB-22AD-4547-9368-4FDBFAA92FF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

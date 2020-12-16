@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5XbqerymvvmfLoUWDxzNFJiWCCKieXjBKuKPBC5/W4ZzPN0e5rI4k6jPtG5sqU+osIwVArbU2Zoj0GD0SBCcjw==",
+  "dgSpecHash": "HheUV7beciT+HFG/S89PSCZ3t5vDy2Icri4k3IhGEqufKC1MYENzKIDIyPeyve1YfHGEYGfojUFNiw3WRU6lCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Wpf\\SimpleTrader.Wpf.csproj",
+  "projectFilePath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Wpf\\SimpleTrader.Wpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

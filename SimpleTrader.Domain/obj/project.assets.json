@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj",
       "projectName": "SimpleTrader.Domain",
-      "projectPath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj",
+      "projectPath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Domain\\obj\\",
+      "outputPath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

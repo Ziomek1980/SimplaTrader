@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6MjaL8CyMLOW1xXCWabxVXoDaQqQJ00x3mNTLgI6SXZbm5VvosJHLgTNI0wuYIZtbLhneJR5tVA5Kkd2W4BgBA==",
+  "dgSpecHash": "6sZLJ9Da7Hq+VYk7n8dE6xUfmu4RlcjXISqh2HKEZh4ZMZfRFq+NtfMN8XSIZ41qySA0i/EhOSnLHJ6rXUB8+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.EntityFramework\\SimpleTrader.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

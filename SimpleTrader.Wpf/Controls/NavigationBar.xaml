@@ -13,9 +13,12 @@
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" Text="Simple Trader" Background="{StaticResource BrushPrimary1}"/>
+        <TextBlock Grid.Row="0" Text="Shop Pomodoria" Foreground="{StaticResource BrushPrimary1}" FontSize="20" Padding="16" Background="white"/>
 
         <Grid Grid.Row="1" Background="{StaticResource BrushPrimary2}">
+            <Grid.Resources>
+                <Style BasedOn="{StaticResource NavButton}" TargetType="RadioButton" />
+            </Grid.Resources>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="auto"/>
                 <ColumnDefinition Width="auto"/>
@@ -24,10 +27,10 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <RadioButton Grid.Column="0" Content="Home" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Home}"/>
-            <RadioButton Grid.Column="1" Content="Portfolio" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Portfolio}"/>
-            <RadioButton Grid.Column="2" Content="Buy"/>
-            <RadioButton Grid.Column="3" Content="Sell"/>
+            <RadioButton Grid.Column="0" Content="ebay Template" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Home}"/>
+            <RadioButton Grid.Column="1" Content="Kommmt noch" Command="{Binding UpdateCurrentViewModelCommand }" CommandParameter="{x:Static nav:ViewType.Portfolio}"/>
+            <RadioButton Grid.Column="2" Content="Kommt noch"/>
+            <RadioButton Grid.Column="3" Content="Kommt noch"/>
         </Grid>
     </Grid>
 </UserControl>

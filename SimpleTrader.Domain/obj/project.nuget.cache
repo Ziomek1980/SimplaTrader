@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bchi/sDrfIe6tldvOER2pBCI0RhGozXH2Rjzf2ghzY6fvhz2Fr3CbZLYBtGPMuX0cx4HLJpV/0NM5E8Wg+nLOg==",
+  "dgSpecHash": "scE37aLO7OvnFqkLzuRZ0BXl7DcL0AUUEHqdaZaBGR5eODjyeK6OpLyiPLlpsQVwWqU2kiRHOocetJ+oowt9iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\source\\repos\\SimpleTrader\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj",
+  "projectFilePath": "C:\\Users\\micha\\source\\repos\\EbayShopPomodoria\\SimpleTrader.Domain\\SimpleTrader.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
